@@ -1,5 +1,4 @@
-### Hi there 👋
-
+## :unicorn: Hi, I'm Isadora
 <!--
 **IsadoraAlmeida/IsadoraAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +12,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## :unicorn: Hi, I'm Isadora
+
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=9573BF&lines=I'm+just+a+Front-end+lover;I'm+just+a+UX%2FUI+lover;I'm+just+a+🦄)
+<h1 align="center">Hi 👋, I'm Isadora</h1>
+<h3 align="center">A frontend developer from Brazil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IsadoraAlmeida&label=Profile%20views&color=0e75b6&style=flat" alt="isadoraalmeida" /> </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsadoraAlmeida&theme=tokyonight&show_icons=true&hide_border=true)
 -->
