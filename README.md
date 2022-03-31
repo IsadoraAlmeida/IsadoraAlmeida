@@ -1,9 +1,9 @@
 ## Hello world! :woman_technologist:
 
-Eu sou a Isadora, tenho 23 anos e moro em Goiânia-GO, Brasil. Apaixonada por desenvolvimento front-end e UX/UI.
+Eu sou a Isadora, tenho 24 anos e moro em Goiânia-GO, Brasil. Apaixonada por desenvolvimento front-end e UX/UI.
 
-- :house: Estagiando em casa como desenvolvedora fullstack - Angular, Java, VueJS.
-- :rocket: Aprendendo e me aprofundando em Angular, VueJS, ReactJS, Java, Python, Node, Typescript e WordPress.
+- :house: Trabalhando em casa como desenvolvedora frontend - Angular e VueJS.
+- :rocket: Aprendendo e me aprofundando em ReactJS, Java, Python, Node.
 - :wrench: Ferramentas: VSCode, Figma, Photoshop, Adobe XD, Git and GitHub.
 - :speech_balloon: Pode me chamar para conversar se você deseja realizar um projeto comigo ou só bater um papo.
 
